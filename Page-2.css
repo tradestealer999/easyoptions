@@ -282,7 +282,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 586px;
+  min-height: 672px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -290,24 +290,23 @@
   margin-bottom: 60px;
 }
 
-.u-section-2 .u-video-1 {
-  min-height: 498px;
+.u-section-2 .u-image-1 {
+  min-height: 602px;
+  background-image: url("images/g07508a357d92ed27fcf3eb91ddde7f0d79feee6cca14179135671ff27fc62d0ce96d425c465fc5acccbf9cbf4a9f4372567348c387e5a82b38268ab4c6470c95_1280.jpg");
 }
 
 .u-section-2 .u-container-layout-1 {
   padding: 20px;
 }
 
-.u-section-2 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
+.u-section-2 .u-image-2 {
+  width: 145px;
+  height: 101px;
+  margin: 0 auto;
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 498px;
+  min-height: 601px;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -315,11 +314,11 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 58px 24px 0 11px;
+  margin: 51px 35px 0 0;
 }
 
 .u-section-2 .u-text-2 {
-  margin: 31px 31px 0 4px;
+  margin: 32px 31px 0 4px;
 }
 
 .u-section-2 .u-text-3 {
@@ -339,12 +338,12 @@
     min-height: 507px;
   }
 
-  .u-section-2 .u-video-1 {
-    min-height: 451px;
+  .u-section-2 .u-image-1 {
+    min-height: 496px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 411px;
+    min-height: 496px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -353,13 +352,12 @@
   }
 
   .u-section-2 .u-text-1 {
-    margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-2 .u-text-2 {
-    margin-left: 0;
     margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-3 {
@@ -370,6 +368,10 @@
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
     min-height: 420px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 380px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -396,6 +398,10 @@
     min-height: 663px;
   }
 
+  .u-section-2 .u-image-1 {
+    min-height: 570px;
+  }
+
   .u-section-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -410,6 +416,10 @@
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 504px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 359px;
   }
 
   .u-section-2 .u-text-3 {
